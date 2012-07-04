@@ -1,4 +1,5 @@
 module ApplicationHelper
+<<<<<<< HEAD
 
 	# Returns the full title on a per-page basis.
   def full_title(page_title)
@@ -10,4 +11,6 @@ module ApplicationHelper
     end
   end
   
+=======
+>>>>>>> 7b27537835a871ee22cb65c62d7f3a414f20ea35
 end
